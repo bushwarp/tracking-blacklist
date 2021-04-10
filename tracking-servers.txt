@@ -44,7 +44,7 @@ check.tadapi.info
 count.munhwa.com
 geo.mattel163.com
 tc-log.mattel163.com
-events-api*.outfit7.com
+outfit7.com
 events.emogi.com
 log.ohmynews.com
 analytics2.tvreport.co.kr
@@ -85,7 +85,7 @@ track.nifty.com
 analysis.shinobi.jp
 asumi.shinobi.jp
 tracking.epicgames.com
-t*.zcvh.net
+zcvh.net
 adj.st
 app.adjust.net.in
 app.adjust.world
@@ -152,7 +152,7 @@ horizon-track.globo.com
 stats.norton.com
 analytics.plaid.com
 spt.performgroup.com
-cs*.mp3bars.com
+mp3bars.com
 track.analitycs.net
 stats.popupmaker.com
 hstats.hepsiburada.com
@@ -368,7 +368,7 @@ analytics.islamicfinder.org
 analytics.jabong.com
 analytics.mindjolt.com
 analytics.msnbc.msn.com
-analytics.omgpop.com/log
+analytics.omgpop.com
 analytics.posttv.com
 analytics.schoolwires.com
 analytics.services.distractify.com
@@ -485,20 +485,19 @@ log.deutschegrammophon.com
 log.mappy.net
 log.newsvine.com
 log.optimizely.com
-log.player.cntv.cn/stat.html?
+log.player.cntv.cn
 log.snapdeal.com
 log.thevideo.me
 log.vdn.apps.cntv.cn
 log.wat.tv
 log1.24liveplus.com
-logger-*.dailymotion.com
 logger.dailymotion.com
 logger.nerdwallet.com
 logger.viki.io
 logging.goodgamestudios.com
 loggly.cheatsheet.com
 loglady.publicbroadcasting.net
-metric*.rediff.com
+rediff.com
 metric-agent.i10c.net
 metric.gstatic.com
 metric.inetcore.com
@@ -535,7 +534,6 @@ mms.silive.com
 mms.splinternews.com
 mms.syracuse.com
 mms.theroot.com
-mobileanalytics.*.amazonaws.com
 pictures.zooplus.com
 ping.buto.tv
 ping.hungama.com
@@ -543,7 +541,7 @@ ping.tvmaze.com
 pix.eads.com
 pix.gfycat.com
 pix.nbcuni.com
-pixazza.com/track/
+pixazza.com
 pixel.buzzfeed.com
 pixel.digitalspy.co.uk
 pixel.facebook.com
@@ -734,7 +732,7 @@ t.blinkist.com
 t.cinemablend.com
 t.delfi.
 t.eharmony.com
-t.hulu.com/beacon/
+t.hulu.com
 t.my.jobs
 t.vimeo.com
 t.wayfair.com
@@ -785,7 +783,7 @@ tracking.carsales.com.au
 tracking.chacha.com
 tracking.conduit.com
 tracking.eurosport.com
-tracking.gfycat.com/viewCount/
+tracking.gfycat.com
 tracking.goodgamestudios.com
 tracking.hsn.com
 tracking.koego.com
@@ -849,7 +847,7 @@ collector.roistat.com
 track.leadhit.io
 applog.ucdns.uc.cn
 t.frtyi.com
-ssp*.rtb.beeline.ru
+rtb.beeline.ru
 tracker.twenga.pl
 analytics.ceneo.pl
 track.buybox.click
@@ -894,10 +892,10 @@ m.czbiw.com
 ip.hivps.xyz
 ns336739.ip-37-187-249.eu
 w1jesu6.package12.com
-geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com
-geoloc*.geo20120530.com
-geoloc*.geostats.ovh
-geoloc*.geovisite.ovh
+9cd47096ab1495d8d3b18667f6a52b9c.com
+geo20120530.com
+geostats.ovh
+geovisite.ovh
 px.reactrmod.com
 yield-manager.browsiprod.com
 l.ffx.io
@@ -909,7 +907,7 @@ tracking.skyword.com
 d.adtriba.com
 cnt2.stroeerdp.de
 geolocation.stroeerdp.de
-tw*.netcore.co.in
+netcore.co.in
 cdn.c-i.as
 tracking.lengow.com
 gjtrack.uc.cn
@@ -931,7 +929,7 @@ apps.poln.co
 atm.youku.com
 bt.phorm.com
 br.phorm.com
-button.blogs.yandex.
+button.blogs.yandex
 bia.brightinfo.com
 beacon-1.newrelic.com
 beacon.errorception.com
@@ -943,8 +941,8 @@ b.grvcdn.com
 b.oix.net
 audience.visiblemeasures.com
 c.adroll.com
-c.bigmir.net$third-party
-c.bing.com/c.gif
+c.bigmir.net
+c.bing.com
 c.hit.ua
 c.imrk.net
 c.msn.com
@@ -963,7 +961,6 @@ cnt.logoslovo.ru
 cnt.nov.ru
 cnt.rambler.ru
 cnt.ramlife.ru
-collect-elb-*.amazonaws.com
 collect.igodigital.com
 collector.schibsted.io
 cntcerber.rambler.ru
@@ -990,10 +987,8 @@ d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 dejavu.mlapps.com
 dc.tremormedia.com
 dc8xl0ndzn2cb.cloudfront.net
-datacollect*.abtasty.com
 dailymotion-ams.gravityrd-services.com
 device-analytics.rollout.io
-device-metrics-us*.amazon.com
 djibeacon.dowjoneson.com
 dnn506yrbagrg.cloudfront.net
 dmtracking2.alibaba.com
@@ -1020,7 +1015,7 @@ geo.query.yahoo.com
 geo.xcel.io
 geo.yahoo.com
 funn.graphiq.com
-gscounters.*.gigya.com
+gigya.com
 gscounters.gigya.com
 hit.8digits.com
 hit.copesa.cl
@@ -1137,7 +1132,6 @@ stats.bbc.co.uk
 stats.cnevids.com
 static.parsely.com
 smartpixel.auditorius.ru
-siteintercept*.qualtrics.com
 sentry01.zerg.rambler.ru
 secure-wa-na.unileversolutions.com
 sana.newsinc.com.s3.amazonaws.com
@@ -1153,7 +1147,7 @@ r.movad.de
 truehits1.gits.net.th
 truehits3.gits.net.th
 ariane.abtasty.com
-trk*.vidible.tv
+vidible.tv
 triggertag.gorillanation.com
 trck.spoteffects.net
 treasuredata.com
@@ -1169,7 +1163,7 @@ tracking.rce.veeseo.com
 tracking.sim-technik.de
 tracking.tomshardware.co.uk
 tracking.vitringez.com
-tracking*.euroads.fi
+euroads.fi
 tracking-rce.veeseo.com
 tracker.cartprotector.com
 tracker.neon-images.com
@@ -1306,10 +1300,10 @@ adtm.chip.de
 a.mobify.com
 ngagement-engine.mobify.com
 pixel.carambo.la
-analytics*.carambo.la
+carambo.la
 collect.tianya.cn
 t.dtscdn.com
-adcounter*.uptolike.ru
+uptolike.ru
 analytics.spankbang.com
 event.demirorenteknoloji.com
 felix.data.tm-awx.com
@@ -1369,12 +1363,12 @@ cnt.xhamster.com
 d1uy7uzra011au.cloudfront.net
 pixel.4players.de
 subpixel.4players.de
-infox.sg/stats.php
+infox.sg
 top.hsdn.org
 r.my.com
 tracking.g2crowd.com
 mtrcs.samba.tv
-stat*.1internet.tv
+1internet.tv
 stats.persgroep.be
 l.m.naver.com
 tivan.naver.com
@@ -1434,7 +1428,7 @@ lentaru.stat.eagleplatform.com
 1l-hit.mail.ru
 analytics.cervellio.com
 stats.qmerce.com
-counter*-yadro*-ru.unblocked.lol
+unblocked.lol
 t.sgc.io
 stat.sputnik.ru
 wstat.ozon.ru
@@ -1516,7 +1510,7 @@ thj.astrakhan.ru
 track.ultimate-guitar.com
 intent.cbsi.com
 bonfire.spklw.com
-://r.i.ua
+r.i.ua
 analyticapi.piri.net
 analytics-rollout-*.amazonaws.com
 analytics-static.ugc.bazaarvoice.com
@@ -1537,11 +1531,9 @@ b.huffingtonpost.com
 bat.bing.com
 beacon.livefyre.com
 beacon.riskified.com
-bi-eventtracker-*.amazonaws.com
 bi-pipeline-collector.stylight.net
 bzclk.baidu.com
-ce-global-track-*.amazonaws.com
-chosun.com/hitlog/
+chosun.com
 clc.stackoverflow.com
 clientlogger-prod.elasticbeanstalk.com
 cnt.alawar.com
@@ -1585,7 +1577,7 @@ log.olark.com
 log.rutube.ru
 logs.thebloggernetwork.com
 ls.srvcs.tumblr.com
-lt*.tritondigital.com
+tritondigital.com
 metric.gstatic.com
 metric.timewarnercable.com
 metrics.toysrus.com
@@ -1635,7 +1627,6 @@ w88.espn.com
 wtsdc.uhc.com
 xtag.autotrader.com
 zdlogs.sphereup.com
-! Tiktok app
 log.musical.ly
 log2.musical.ly
 frontier.musical.ly
