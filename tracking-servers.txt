@@ -1,4 +1,7 @@
 #########################
+amazon-adsystem.com
+doubleclick.net
+ads.inmobi.com
 ct.pinterest.com
 ben.crxmouse.com
 api2.poperblocker.com
